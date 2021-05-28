@@ -1,3 +1,6 @@
 [submodule "proyecto-angular-nodejs"]
 	path = proyecto-angular-nodejs
 	url = https://github.com/ociel-gonzalez-solis/proyecto-angular-nodejs
+[submodule "gestor-angular"]
+	path = gestor-angular
+	url = https://github.com/ociel-gonzalez-solis/gestor-angular
